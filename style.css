@@ -15,7 +15,8 @@
 
 /* CLASS Tags */
 .spacerType1 {
-  border: black 4px solid;
+  border: 4px solid;
+  background-color: black;
   height: 20px;
-  width: 100%;
+  width: 99.8%;
 }
